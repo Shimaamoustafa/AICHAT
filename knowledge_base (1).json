@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "How are you",
+      "answer": " I am Fine"
+    },
+    {
+      "question": "what is your name?",
+      "answer": " My name is chatbot I am A Chatbot Made by Esraa."
+    }
+  ]
+}
